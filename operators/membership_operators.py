@@ -68,3 +68,4 @@ d2 = { 1:'ETL', 2: 'Automation', 4:'testing'}
 print(" d1 is d2 ", d1 is d2)   # False becoz both have diff memory location
 print(" d1 == d2 ", d1 == d2)  # False becoz key values are diff in d1 and d2
 
+
